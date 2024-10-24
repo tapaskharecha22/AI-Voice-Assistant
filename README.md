@@ -14,4 +14,4 @@ This project is an AI-powered voice assistant developed using Python. It can und
 
 **Packge Required**
 
--  
+-  pip install -r requirements.txt
