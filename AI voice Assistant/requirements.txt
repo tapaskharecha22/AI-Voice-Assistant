@@ -1,0 +1,16 @@
+pyttsx3
+SpeechRecognition
+wikipedia-api
+webbrowser
+requests
+bs4
+python-dotenv
+pyjokes
+speedtest-cli
+pyautogui
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+googleapiclient
+google-generativeai
