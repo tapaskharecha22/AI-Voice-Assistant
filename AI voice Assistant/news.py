@@ -12,12 +12,12 @@ def speak(audio):
     engine.runAndWait()
 
 def latestnews():
-    api_dict = {"business":"https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey= ENTER_YOUR_API_KEY",
-                "entertainment":"https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=ENTER_YOUR_API_KEY",
-                "medical":"https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=ENTER_YOUR_API_KEY",
-                "science":"https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=ENTER_YOUR_API_KEY",
-                "sports":"https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=ENTER_YOUR_API_KEY",
-                "technology":"https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=ENTER_YOUR_API_KEY"
+    api_dict = {"business":"ENTER_YOUR_API_KEY",
+                "entertainment":"ENTER_YOUR_API_KEY",
+                "medical":"ENTER_YOUR_API_KEY",
+                "science":"ENTER_YOUR_API_KEY",
+                "sports":"ENTER_YOUR_API_KEY",
+                "technology":"ENTER_YOUR_API_KEY"
                }
     content = None
     url = None
