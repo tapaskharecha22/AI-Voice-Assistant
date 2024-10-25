@@ -1,4 +1,4 @@
-# AI-Assistant
+# AI-Voice-Assistant
 AI Voice Assistant
 
 This project is an AI-powered voice assistant developed using Python. It can understand and respond to voice commands, offering functionalities such as web searching, setting reminders, providing weather updates, and much more. The assistant leverages speech recognition, text-to-speech, and natural language processing to provide a seamless user experience.
